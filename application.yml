@@ -10,4 +10,4 @@ mongo:
   
 spring:
   profiles:
-    active: prod
+    active: dev
