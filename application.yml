@@ -2,20 +2,3 @@ user:
   name: liyf23
   age: 20
   gender: m
-  
-mongo:
-  host: 10.100.82.225
-  port: 27017
-  dbname: madpdemo
-  
-spring:
-  profiles:
-    active: dev
-    
-eureka:
-  host: localhost
-  port: 8761
-  
-config:
-  host: localhost
-  port: 8888
