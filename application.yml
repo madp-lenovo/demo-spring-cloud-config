@@ -8,5 +8,6 @@ mongo:
   port: 27017
   dbname: madpdemo
   
-enviroment:
-  active: dev
+spring:
+  profiles:
+    active: prod
