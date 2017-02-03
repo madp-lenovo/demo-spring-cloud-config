@@ -1,0 +1,11 @@
+user:
+  name: liyf23
+  age: 20
+  gender: m
+  
+mongo:
+  ip: 192.168.0.1
+  pwd: 123456
+  port: 27017
+  
+  
