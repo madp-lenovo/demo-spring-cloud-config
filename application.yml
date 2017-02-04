@@ -4,3 +4,6 @@ systemInfo:
   gender: m
   company: lenovo
  
+spring:
+  profiles:
+    active: dev
