@@ -4,7 +4,7 @@ zuul:
   #用户模块路由配置(当请求的URL匹配到相应的路由规则，就将该请求转发到serviceId所对应的服务，
   #对应service的相关信息在注册服务器中可以拿到)
     user:
-      path: /user/**
+      path: /user-service/**
       serviceId: user
 
   #音乐模块路由配置
