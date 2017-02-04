@@ -5,7 +5,7 @@ mongo:
   
 spring:
   profiles:
-    active: dev
+    active: prod
     
 eureka:
   host: localhost
