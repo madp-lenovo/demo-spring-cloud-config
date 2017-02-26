@@ -45,7 +45,11 @@ zuul:
       path: /config/**
       serviceId: config
 
-  #配置服务模块
+  #账上考勤服务模块
     signLeave:
       path: /signLeave/api/oa/mobile/service/**
       serviceId: signLeave
+      
+     monitor:
+      path: /monitor/**
+      serviceId: monitor
